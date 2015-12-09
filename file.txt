@@ -13,8 +13,12 @@ Modified
 
 Latest modifcations
 
+<<<<<<< HEAD
 Again Modified
 
 Again Again Modified
+=======
+10
+>>>>>>> master
 
 
