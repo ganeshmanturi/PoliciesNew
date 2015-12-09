@@ -11,7 +11,11 @@ Conflicts
 
 Modified
 
+<<<<<<< HEAD
+Latest modifcations
+=======
 Again Modified
+>>>>>>> 9a1d8d0176fbcccdbc84250f7cd081c27e0fb594
 
 Again Again Modified
 
