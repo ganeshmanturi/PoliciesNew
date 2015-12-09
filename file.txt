@@ -19,10 +19,9 @@ Again Modified
 Again Again Modified
 
 10
-<<<<<<< HEAD
+
 12
-=======
+
 13
->>>>>>> master
 
 
