@@ -7,10 +7,9 @@ yigiabsdbfliuasdf
 478695
 485
 
-<<<<<<< HEAD
 Conflicts
-=======
+
 Modified
->>>>>>> master
+
 
 
