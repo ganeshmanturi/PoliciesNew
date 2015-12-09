@@ -7,10 +7,18 @@ yigiabsdbfliuasdf
 478695
 485
 
+Conflicts
+
 Modified
 
 Latest modifcations
 
+<<<<<<< HEAD
+Again Modified
+
+Again Again Modified
+=======
 10
+>>>>>>> master
 
 
